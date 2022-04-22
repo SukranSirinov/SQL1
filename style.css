@@ -1,0 +1,16 @@
+body{
+background-color: rgba(165, 215, 228, 0.712);    
+}
+.Text{
+    width: 30%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1%;
+}
+.Text button{
+    margin-left: 50%;
+    background-color: blue;
+}
+.Text h3{
+    margin-left: 30%;
+}
